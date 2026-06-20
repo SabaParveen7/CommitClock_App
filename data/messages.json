@@ -1,0 +1,62 @@
+{
+  "ringing": [
+    "Time to ship it! \ud83d\udd14",
+    "Commit o'clock!",
+    "Your code is calling.",
+    "One more commit, one step closer.",
+    "Let's keep that streak alive.",
+    "Ding ding! Schedule says now.",
+    "The repo is waiting for you.",
+    "Quick push, then back to it.",
+    "Showtime for commit #{n}.",
+    "Tiny step, steady progress.",
+    "Don't keep GitHub waiting.",
+    "This one's quick — let's go.",
+    "Right on schedule. Nice.",
+    "Bell's ringing, you know what to do.",
+    "Another brick in the wall.",
+    "Stay consistent, stay golden.",
+    "Push time. You've got this.",
+    "Commit #{n} is ready when you are."
+  ],
+  "happy": [
+    "Nice work! \ud83c\udf89",
+    "Streak +1!",
+    "That's how it's done.",
+    "Boom. Logged and done.",
+    "Another one in the books.",
+    "Consistency looks good on you.",
+    "On time, every time.",
+    "GitHub graph says thank you.",
+    "Smooth and on schedule.",
+    "You're on a roll!",
+    "Crushing this campaign.",
+    "Future you will be grateful.",
+    "Locked in. Onward.",
+    "Look at that green square.",
+    "Solid. Next one's coming up.",
+    "Discipline level: high."
+  ],
+  "sad": [
+    "No worries, see you in 10.",
+    "Taking a breath \u2014 that's fine.",
+    "Ten more minutes, then back at it.",
+    "Snoozed, not skipped.",
+    "We'll try again shortly.",
+    "Okay, short break. I'll wait.",
+    "Resting up for round two.",
+    "It's fine \u2014 just don't forget.",
+    "Catching you in a bit.",
+    "Slow down, not stop."
+  ],
+  "excited": [
+    "Streak milestone! Incredible run.",
+    "Look at that streak go!",
+    "You're unstoppable right now.",
+    "Milestone unlocked! \ud83c\udf86",
+    "That's a serious streak.",
+    "Consistency champion right here.",
+    "New personal best!",
+    "The heatmap is looking great."
+  ]
+}
