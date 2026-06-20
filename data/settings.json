@@ -1,6 +1,6 @@
 {
-  "alarm_tone": "gentle_bell.wav",
-  "current_streak": 0,
-  "longest_streak": 0,
+  "alarm_tone": "classic_alarm.wav",
+  "current_streak": 1,
+  "longest_streak": 1,
   "milestones_seen": []
 }

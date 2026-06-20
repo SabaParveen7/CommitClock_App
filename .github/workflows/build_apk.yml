@@ -1,0 +1,28 @@
+name: Build Android APK
+
+# Runs automatically every time you push to GitHub.
+# Completely free for public repositories (GitHub Actions free tier).
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:   # also lets you click "Run workflow" manually on GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build with Buildozer
+        uses: ArtemSBulgakov/buildozer-action@v1
+        id: buildozer
+        with:
+          buildozer_version: stable
+
+      - name: Upload APK as a downloadable artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: CommitClock-apk
+          path: ${{ steps.buildozer.outputs.filename }}

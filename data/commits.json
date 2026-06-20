@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "date": "2026-06-12",
-    "time": "09:00",
+    "date": "2026-06-21",
+    "time": "00:23",
     "message": "Commit #1: Refactor UI layer",
-    "status": "missed"
+    "status": "done"
   },
   {
-    "id": 2,
-    "date": "2026-06-12",
-    "time": "11:30",
-    "message": "Commit #2: Fix test suite",
-    "status": "missed"
+    "id": 1,
+    "date": "2026-06-21",
+    "time": "00:28",
+    "message": "Commit  #2: Fix test suite",
+    "status": "pending"
   },
   {
     "id": 3,
@@ -368,21 +368,21 @@
     "date": "2026-06-20",
     "time": "19:00",
     "message": "Commit #53: Update README",
-    "status": "pending"
+    "status": "missed"
   },
   {
     "id": 54,
     "date": "2026-06-20",
-    "time": "21:00",
+    "time": "8:07",
     "message": "Commit #54: Implement API client",
-    "status": "pending"
+    "status": "missed"
   },
   {
     "id": 55,
-    "date": "2026-06-21",
-    "time": "09:00",
+    "date": "2026-06-20",
+    "time": "08:09",
     "message": "Commit #55: Improve simulation core",
-    "status": "pending"
+    "status": "missed"
   },
   {
     "id": 56,
